@@ -1,4 +1,4 @@
-# Desafio Back-End do PicPay
+# Desafio Back-End do Uber
 
 ![picpay](https://t.ctcdn.com.br/6hbmXDeuYzffVT6fBXYiFRPgzE8=/1244x700/smart/i500561.jpeg)
 
