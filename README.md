@@ -47,7 +47,7 @@ Seu Nome: kaue de matos oliveira
 
 Nome do recrutador:
 
-Link do repositório:https://github.com/iKaueMatos/picpaychallenge/edit/Picpay/
+Link do repositório:https://github.com/iKaueMatos/uber-challenge
 
 Link do Linkedin:https://www.linkedin.com/in/ikauematos/
 
